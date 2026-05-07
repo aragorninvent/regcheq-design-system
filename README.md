@@ -24,7 +24,7 @@ regcheq-design-system/
 ### Opción 1 — URL directa (recomendada)
 ```
 Lee el design system de Regcheq en:
-https://raw.githubusercontent.com/[usuario]/regcheq-design-system/main/CONTEXT.md
+https://github.com/aragorninvent/regcheq-design-system/blob/main/CONTEXT.md
 
 Luego crea [lo que necesitas].
 ```
