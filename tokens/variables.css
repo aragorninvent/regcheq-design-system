@@ -1,0 +1,103 @@
+/* ============================================================
+   REGCHEQ DESIGN SYSTEM — CSS VARIABLES
+   Copy this into any project to use the full design system.
+   ============================================================ */
+
+/* Google Fonts — import in <head> */
+/*
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+*/
+
+:root {
+
+  /* --- COLORS: Brand --- */
+  --color-primary:        #0064e0;
+  --color-primary-hover:  #004bb0;
+  --color-navy:           #040045;
+
+  /* --- COLORS: UI --- */
+  --color-text:           #3e4867;
+  --color-text-light:     #5a6688;
+  --color-bg:             #ffffff;
+  --color-bg-soft:        #f4f8ff;
+  --color-bg-bento:       #f7fbff;
+  --color-border:         #e6eef8;
+  --color-surface:        #ffffff;
+
+  /* --- COLORS: Accent --- */
+  --color-cyan-light:     #cafaff;
+  --color-cyan:           #82dbea;
+  --color-cyan-mid:       #00b5d4;
+  --color-cyan-pale:      #c7eeff;
+  --color-blue-light:     #6ed4ff;
+  --color-blue-mid:       #24bdff;
+  --color-green:          #65db8d;
+  --color-purple:         #781ff4;
+
+  /* --- COLORS: Semantic --- */
+  --color-warning:        #ef8a42;
+  --color-error:          #e83a3a;
+  --color-success:        #65db8d;
+
+  /* --- GRADIENTS --- */
+  --gradient-hero:        linear-gradient(135deg, #040045 0%, #041668 45%, #0064e0 100%);
+  --gradient-btn:         linear-gradient(135deg, #00a8ff 0%, #0064e0 100%);
+  --gradient-text:        linear-gradient(135deg, #0064e0 0%, #24bdff 100%);
+
+  /* --- TYPOGRAPHY --- */
+  --font-heading:         'Poppins', sans-serif;
+  --font-body:            'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display:         'Outfit', sans-serif;
+
+  /* --- FONT SIZES --- */
+  --text-xs:    0.75rem;
+  --text-sm:    0.875rem;
+  --text-base:  1rem;
+  --text-lg:    1.125rem;
+  --text-xl:    1.25rem;
+  --text-2xl:   1.5rem;
+  --text-3xl:   1.875rem;
+  --text-4xl:   2.25rem;
+  --text-5xl:   3rem;
+  --text-6xl:   3.75rem;
+  --text-7xl:   4.5rem;
+
+  /* --- SPACING --- */
+  --space-1:    4px;
+  --space-2:    8px;
+  --space-3:    12px;
+  --space-4:    16px;
+  --space-5:    20px;
+  --space-6:    24px;
+  --space-8:    32px;
+  --space-10:   40px;
+  --space-12:   48px;
+  --space-14:   56px;
+  --space-16:   64px;
+  --space-20:   80px;
+  --space-24:   96px;
+
+  /* --- BORDER RADIUS --- */
+  --radius-sm:  8px;
+  --radius-md:  12px;
+  --radius-lg:  14px;
+  --radius-xl:  20px;
+  --radius-2xl: 24px;
+  --radius-3xl: 34px;
+  --radius-full: 9999px;
+
+  /* --- SHADOWS --- */
+  --shadow-sm:        0 4px 12px rgba(4, 0, 69, 0.06);
+  --shadow-md:        0 10px 25px rgba(0, 100, 224, 0.08);
+  --shadow-lg:        0 24px 48px rgba(0, 100, 224, 0.08);
+  --shadow-xl:        0 30px 70px rgba(4, 0, 69, 0.12);
+  --shadow-navy:      0 30px 60px rgba(4, 0, 69, 0.2);
+  --shadow-blue-glow: 0 16px 36px rgba(0, 100, 224, 0.35);
+
+  /* --- LAYOUT --- */
+  --max-width:          1360px;
+  --container-padding:  24px;
+  --section-padding-y:  80px;
+}

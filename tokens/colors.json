@@ -1,0 +1,35 @@
+{
+  "brand": {
+    "primary": "#0064e0",
+    "navy": "#040045"
+  },
+  "ui": {
+    "text-body": "#3e4867",
+    "text-light": "#5a6688",
+    "background": "#ffffff",
+    "background-soft": "#f4f8ff",
+    "background-bento": "#f7fbff",
+    "border": "#e6eef8",
+    "surface": "#ffffff"
+  },
+  "accent": {
+    "cyan-light": "#cafaff",
+    "cyan": "#82dbea",
+    "cyan-mid": "#00b5d4",
+    "cyan-pale": "#c7eeff",
+    "blue-light": "#6ed4ff",
+    "blue-mid": "#24bdff",
+    "green": "#65db8d",
+    "purple": "#781ff4"
+  },
+  "semantic": {
+    "warning": "#ef8a42",
+    "error": "#e83a3a",
+    "success": "#65db8d"
+  },
+  "gradients": {
+    "hero-dark": "linear-gradient(135deg, #040045 0%, #041668 45%, #0064e0 100%)",
+    "button-primary": "linear-gradient(135deg, #00a8ff 0%, #0064e0 100%)",
+    "text-highlight": "linear-gradient(135deg, #0064e0 0%, #24bdff 100%)"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "fonts": {
+    "heading": "Poppins",
+    "body": "Inter",
+    "display": "Outfit",
+    "fallback": "-apple-system, BlinkMacSystemFont, sans-serif"
+  },
+  "usage": {
+    "Poppins": "Títulos principales, headings de secciones, branding",
+    "Inter": "Cuerpo de texto, UI, párrafos, labels",
+    "Outfit": "Displays y banners de marketing, hero sections"
+  },
+  "google_fonts_import": {
+    "Poppins": "https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap",
+    "Inter": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+    "Outfit": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&display=swap"
+  },
+  "weights": {
+    "thin": 100,
+    "extralight": 200,
+    "light": 300,
+    "regular": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700,
+    "extrabold": 800,
+    "black": 900
+  },
+  "scale": {
+    "xs": "0.75rem",
+    "sm": "0.875rem",
+    "base": "1rem",
+    "lg": "1.125rem",
+    "xl": "1.25rem",
+    "2xl": "1.5rem",
+    "3xl": "1.875rem",
+    "4xl": "2.25rem",
+    "5xl": "3rem",
+    "6xl": "3.75rem",
+    "7xl": "4.5rem"
+  },
+  "line_height": {
+    "tight": 1.05,
+    "snug": 1.3,
+    "normal": 1.6,
+    "relaxed": 1.65
+  },
+  "letter_spacing": {
+    "tight": "-0.05em",
+    "snug": "-0.03em",
+    "normal": "0em",
+    "wide": "0.02em"
+  }
+}

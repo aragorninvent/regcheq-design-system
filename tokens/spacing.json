@@ -1,0 +1,39 @@
+{
+  "spacing": {
+    "1": "4px",
+    "2": "8px",
+    "3": "12px",
+    "4": "16px",
+    "5": "20px",
+    "6": "24px",
+    "8": "32px",
+    "10": "40px",
+    "12": "48px",
+    "14": "56px",
+    "16": "64px",
+    "20": "80px",
+    "24": "96px"
+  },
+  "border_radius": {
+    "sm": "8px",
+    "md": "12px",
+    "lg": "14px",
+    "xl": "20px",
+    "2xl": "24px",
+    "3xl": "34px",
+    "full": "9999px"
+  },
+  "shadows": {
+    "sm": "0 4px 12px rgba(4, 0, 69, 0.06)",
+    "md": "0 10px 25px rgba(0, 100, 224, 0.08)",
+    "lg": "0 24px 48px rgba(0, 100, 224, 0.08)",
+    "xl": "0 30px 70px rgba(4, 0, 69, 0.12)",
+    "navy": "0 30px 60px rgba(4, 0, 69, 0.2)",
+    "blue-glow": "0 16px 36px rgba(0, 100, 224, 0.35)"
+  },
+  "layout": {
+    "max-width": "1360px",
+    "container-padding": "24px",
+    "section-padding-y": "80px"
+  }
+}
