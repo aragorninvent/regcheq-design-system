@@ -15,7 +15,7 @@ Regcheq es una plataforma B2B de compliance, prevención de lavado de activos (A
 - **Framework:** Next.js (App Router)
 - **Styling:** CSS variables nativas o Tailwind CSS
 - **Fuentes:** Google Fonts (Poppins + Inter + Outfit)
-- **Íconos:** Lucide React o SVG inline
+- **Íconos:** Google Material Symbols en Rounded y 400 weight o SVG inline
 
 ---
 
@@ -147,14 +147,14 @@ Al iniciar cualquier tarea de diseño o desarrollo:
 
 ```
 Lee el design system en:
-https://raw.githubusercontent.com/[usuario]/regcheq-design-system/main/CONTEXT.md
+https://raw.githubusercontent.com/aragorninvent/regcheq-design-system/main/CONTEXT.md
 
 Luego: [describe lo que necesitas]
 ```
 
 Para importar las variables CSS en cualquier proyecto:
 ```css
-@import url('https://raw.githubusercontent.com/[usuario]/regcheq-design-system/main/tokens/variables.css');
+@import url('https://raw.githubusercontent.com/aragorninvent/regcheq-design-system/main/tokens/variables.css');
 ```
 
 O copia el contenido de `tokens/variables.css` directamente en tu proyecto.
