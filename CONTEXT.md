@@ -15,7 +15,7 @@ Regcheq es una plataforma B2B de compliance, prevención de lavado de activos (A
 - **Framework:** Next.js (App Router)
 - **Styling:** CSS variables nativas o Tailwind CSS
 - **Fuentes:** Google Fonts (Poppins + Inter + Outfit)
-- **Íconos:** Google Material Symbols en Rounded y 400 weight o SVG inline
+- **Íconos:** Lucide React o SVG inline
 
 ---
 
@@ -125,6 +125,50 @@ border-radius: 9999px;
 padding: 10px 16px;
 font-weight: 700;
 ```
+
+---
+
+## Logos
+
+Regcheq tiene tres marcas con sistema de logos propio. Todos los archivos están en `assets/logos/` como SVG.
+
+### Regcheq (marca principal)
+
+| Archivo | Fondo recomendado | Orientación |
+|---------|-------------------|-------------|
+| `main/Logo_Regcheq.svg` | Blanco o claro | Horizontal |
+| `main/Logo_Regcheq_Blanco.svg` | Navy (`#040045`) u oscuro | Horizontal |
+| `main/logo_blanco.svg` | Navy (`#040045`) u oscuro | Horizontal |
+| `eslogan/Logo_Regcheq_eslogan.svg` | Blanco o claro | Vertical con eslogan |
+| `eslogan/Logo_Regcheq_eslogan_Blanco.svg` | Navy u oscuro | Vertical con eslogan |
+
+### Regcheq Compliance (submarca)
+
+| Archivo | Fondo recomendado | Orientación |
+|---------|-------------------|-------------|
+| `compliance/regcheq_compliance.svg` | Blanco o claro | Vertical |
+| `compliance/regcheq_compliance_blanco.svg` | Navy u oscuro | Vertical |
+| `compliance/regcheq_compliance_horizontal.svg` | Blanco o claro | Horizontal |
+| `compliance/regcheq_compliance_horizontal_blanco.svg` | Navy u oscuro | Horizontal |
+
+### Regcheq Supply (submarca)
+
+| Archivo | Fondo recomendado | Orientación |
+|---------|-------------------|-------------|
+| `supply/regcheq_supply.svg` | Blanco o claro | Vertical |
+| `supply/regcheq_supply_blanco.svg` | Navy u oscuro | Vertical |
+| `supply/regcheq_supply_horizontal.svg` | Blanco o claro | Horizontal |
+| `supply/regcheq_supply_horizontal_blanco.svg` | Navy u oscuro | Horizontal |
+
+### Reglas de uso de logos
+
+1. **Nunca** usar el logo color sobre fondo oscuro — usar siempre la variante blanca.
+2. **Nunca** usar el logo blanco sobre fondo claro — usar siempre la variante color.
+3. **Orientación horizontal** para headers, navbars y espacios anchos.
+4. **Orientación vertical** para presentaciones, portadas y espacios cuadrados.
+5. **Con eslogan** solo para materiales de marketing o primera impresión (no en UI de producto).
+6. Respetar espacio mínimo alrededor del logo equivalente a la altura de la letra "R".
+7. Nunca distorsionar, rotar ni cambiar los colores del logo.
 
 ---
 
